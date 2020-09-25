@@ -1,2 +1,2 @@
-# Nome_Info
+# covidinfo
 Created with CodeSandbox
